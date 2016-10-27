@@ -1,3 +1,5 @@
+package ideaz.traveladventures;
+
 import android.app.Application;
 
 import com.facebook.FacebookSdk;
